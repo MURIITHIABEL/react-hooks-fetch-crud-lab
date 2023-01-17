@@ -34,3 +34,4 @@ function QuestionItem({ question, onDeleteClick, onAnswerChange }) {
 }
 
 export default QuestionItem;
+
